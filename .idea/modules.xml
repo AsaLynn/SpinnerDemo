@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpinnerDemo.iml" filepath="$PROJECT_DIR$/SpinnerDemo.iml" group="SpinnerDemo" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="hulu_android/app" />
+      <module fileurl="file://$PROJECT_DIR$/appDrag/appDrag.iml" filepath="$PROJECT_DIR$/appDrag/appDrag.iml" group="hulu_android/appDrag" />
+      <module fileurl="file://$PROJECT_DIR$/appPicMgr/appPicMgr.iml" filepath="$PROJECT_DIR$/appPicMgr/appPicMgr.iml" group="hulu_android/appPicMgr" />
+      <module fileurl="file://$PROJECT_DIR$/appTransform/appTransform.iml" filepath="$PROJECT_DIR$/appTransform/appTransform.iml" group="hulu_android/appTransform" />
+      <module fileurl="file://$PROJECT_DIR$/dash-spinner/dash-spinner.iml" filepath="$PROJECT_DIR$/dash-spinner/dash-spinner.iml" group="SpinnerDemo/dash-spinner" />
+      <module fileurl="file://$PROJECT_DIR$/dashSpinner/dashSpinner.iml" filepath="$PROJECT_DIR$/dashSpinner/dashSpinner.iml" group="SpinnerDemo/dashSpinner" />
+    </modules>
+  </component>
+</project>
