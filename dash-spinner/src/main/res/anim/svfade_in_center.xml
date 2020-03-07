@@ -4,9 +4,9 @@
      android:duration="@integer/svanimation_default_duration">
 
   <scale
-      android:fromXScale="120%"
+      android:fromXScale="100%"
       android:toXScale="100%"
-      android:fromYScale="120%"
+      android:fromYScale="100%"
       android:toYScale="100%"
       android:pivotX="50%"
       android:pivotY="50%"/>

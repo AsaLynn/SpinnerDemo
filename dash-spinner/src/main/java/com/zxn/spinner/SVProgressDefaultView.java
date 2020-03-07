@@ -50,6 +50,7 @@ public class SVProgressDefaultView extends LinearLayout {
         mRotateAnimation.setInterpolator(new LinearInterpolator());
         mRotateAnimation.setRepeatCount(-1);
         mRotateAnimation.setRepeatMode(Animation.RESTART);
+        //mRotateAnimation.setRepeatMode(Animation.REVERSE);
     }
 
     public void show() {

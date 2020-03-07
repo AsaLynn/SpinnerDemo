@@ -10,7 +10,7 @@
     <!--窗口最小宽度-->
     <dimen name="size_minwidth_svprogresshuddefault">180dp</dimen>
     <!--图片宽高-->
-    <dimen name="size_image_bigloading">100dp</dimen>
+    <dimen name="size_image_bigloading">80dp</dimen>
     <!--图片宽高-->
     <dimen name="size_image_smallloading">60dp</dimen>
     <!--圆角-->

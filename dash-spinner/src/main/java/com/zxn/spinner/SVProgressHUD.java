@@ -104,7 +104,7 @@ public class SVProgressHUD {
             onAttached();
         }
 
-        mSharedView.startAnimation(inAnim);
+        //mSharedView.startAnimation(inAnim);
 
     }
 
