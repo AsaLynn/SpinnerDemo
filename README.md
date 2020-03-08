@@ -31,8 +31,8 @@ public void setProgress(float nProgress) {
 
 历史版本:
 ```
+implementation 'com.zxn.spinner:dash-spinner:1.0.3'
 implementation 'com.zxn.spinner:dash-spinner:1.0.2'
-
 ```
 
 

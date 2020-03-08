@@ -25,6 +25,7 @@ public class DialogBoxActivity extends AppCompatActivity {
 
     public void show(View view) {
         SVProgressHUD.show(this);
+        //SVProgressHUD.showWithMaskType(this,) SVProgressHUD.SVProgressHUDMaskType.None;
     }
 
     public void showWithMaskType(View view) {

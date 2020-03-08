@@ -109,7 +109,8 @@ public class SVProgressHUD {
     }
 
     public static void show(Context context) {
-        getInstance(context).setMaskType(SVProgressHUDMaskType.Black);
+        //getInstance(context).setMaskType(SVProgressHUDMaskType.None);
+        getInstance(context).setMaskType(SVProgressHUDMaskType.Clear);
         getInstance(context).mSharedView.show();
         getInstance(context).svShow();
     }
